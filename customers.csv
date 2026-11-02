@@ -1,0 +1,21 @@
+customer_id,customer_name,email,city,customer_segment,registration_date
+C001,Rajesh Kumar,rajesh.kumar@gmail.com,Mumbai,Regular,2025-01-03
+C002,Priya Sharma,priya.sharma@gmail.com,Delhi,Premium,2025-01-05
+C003,  Amit Verma,amit.verma@gmail.com,Bengaluru,Regular,2025-01-08
+C004,Sneha Patil,,Pune,New,2025-01-11
+C005,Vikram Singh,vikram.singh@gmail.com,Jaipur,Regular,2025-01-15
+C005,Vikram Singh ,vikram.singh@gmail.com,jaipur,regular,2025-01-15
+C006,Ananya Iyer,ananya.iyer@gmail.com,chennai,Premium,2025-02-01
+C007,Karan Mehta,karan.mehta@gmail.com,Ahmedabad,Regular,2025-02-10
+C008,Fatima Khan,fatima.khan@gmail.com,Hyderabad,New,2025-02-18
+C009,Rohit Deshpande,rohit.d@gmail.com,PUNE,Regular,01/03/2025
+C010,Meera Nair,meera.nair@gmail.com,Kochi,Premium,2025-03-09
+C011,  Suresh Babu,suresh.babu@gmail.com,LUCKNOW,Regular,2025-03-20
+C012,Pooja Joshi,pooja.joshi@gmail.com,Nagpur,New,2025-04-02
+C012,Pooja Joshi,pooja.joshi@gmail.com,nagpur,NEW,2025-04-02
+C013,Arjun Reddy,arjun.reddy@gmail.com,Vijayawada,Regular,2025-04-15
+C014,Neha Gupta,neha.gupta@gmail.com,Indore,Premium,2025-04-28
+C015,Sameer Ali,,Bhopal,Regular,2025-05-06
+C016,Divya Menon,divya.menon@gmail.com,Thiruvananthapuram,New,2025-05-19
+C017,Mohit Bansal,mohit.bansal@gmail.com,Ludhiana,Regular,2025-06-01
+C018,Ritu Agarwal,ritu.agarwal@gmail.com,Kanpur,Premium,2025-06-14

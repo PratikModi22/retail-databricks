@@ -1,0 +1,15 @@
+product_id,product_name,category,brand,standard_price,launch_date
+P001,Smartphone X15,Electronics,Zenith,24999.00,2025-01-15
+P002,Wireless Earbuds,electronics,Zenith,2999.50,2025-02-01
+P003,, ELECTRONICS ,NovaTech,7999.00,2025-02-20
+P004,Cotton Bedsheet Set,Home & Kitchen,HomeStyle,1499.00,2025-03-05
+P005,Stainless Steel Water Bottle,home & kitchen,HomeStyle,499.00,2025-03-12
+P006,Basmati Rice 5kg,Groceries,DailyFresh,649.00,2025-01-10
+P007,Cold Pressed Oil 1L,groceries,DailyFresh,329.00,2025-04-01
+P008,Ayurvedic Shampoo,Personal Care,HerbalEssence,349.00,2025-03-25
+P009,Charcoal Face Wash,personal care,HerbalEssence,275.00,2025-04-15
+P010,A4 Notebook Pack,Stationery,WriteWell,199.00,05 May 2025
+P011,Gel Pen Set (10),stationery,WriteWell,149.00,2025-05-10
+P012,Vitamin C Face Serum,Personal Care ,HerbalEssence,599.00,2025-05-22
+P013,Mixer Grinder 750W,Home Appliances,HomeChef,3299.00,2025-06-01
+P014,Vacuum Cleaner, home appliances ,HomeChef,6999.00,2025-06-18
